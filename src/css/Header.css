@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Roboto:wght@400;500;700;900&family=Trirong:ital,wght@0,400;0,600;0,900;1,500;1,800;1,900&display=swap');
+
+
+
+
+.njb{
+    width: 100%;
+    height: 30px;
+    text-align: center;
+    background-color: #FEF3BD;
+    font-family:  'Poppins', sans-serif;
+    padding: 5px;
+    font-weight: 500;
+    font-size:smaller;
+
+    
+}

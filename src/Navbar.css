@@ -1,0 +1,99 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster&family=Roboto:wght@400;500;700;900&family=Trirong:ital,wght@0,400;0,600;0,900;1,500;1,800;1,900&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+
+.oo {
+  width: 100;
+  height: 60px;
+  background-color: #00b0b5;
+}
+.ug {
+  padding: 4px 25px;
+  border-radius: 10px;
+  margin-top: -3px;
+  border: none;
+}
+.gh {
+  text-decoration: none;
+  padding: 20px;
+  text-align: center;
+}
+
+.jh {
+  text-decoration: none;
+  color: white;
+  margin-left: 15px;
+
+  font-weight: 500;
+  font-size: large;
+}
+.jh:hover {
+  color: black;
+}
+
+.cyt {
+  margin-left: 700px;
+  margin-top: -30px;
+  padding: 4px;
+}
+.vgy {
+  margin-left: 5px;
+}
+.njk {
+  margin-right: 15px;
+}
+.fa-solid {
+  margin-top: 10px;
+  /* color:gray; */
+}
+
+.signup{
+  padding: 5px 10px;
+    list-style: none;
+    color: white;
+    text-decoration: none;
+    margin-left: -70px;
+    background-color: gray;
+    border-radius: 20px;
+    font-weight: 700;
+}
+
+.Login{
+  padding: 6px 10px;
+  list-style: none;
+  color: white;
+  text-decoration: none;
+  margin-left: 15px;
+  background-color: gray;
+  border-radius: 20px;
+  font-weight: 700;
+}
+.sdwid{
+margin-left: 1280px;
+margin-top: -53px;
+
+}
+.cndkj:hover{
+  color: black;
+}
+.Logo{
+  /* height: 70px; */
+  /* width: 80px; */
+  margin-left: -1200px;
+  margin-top: -40px;
+  font-family: 'Lobster', cursive;
+color: black;
+  font-weight: bold;
+  font-size: xx-large;
+  
+  
+
+}
